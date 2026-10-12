@@ -13,6 +13,7 @@
     }
   </style>
 </head>
+
 <body class="bg-light">
 
   <?php require('inc/header.php'); ?>
@@ -21,7 +22,7 @@
     <h2 class="fw-bold h-font text-center">ABOUT US</h2>
     <div class="h-line bg-dark"></div>
     <p class="text-center mt-3">
-      Nestled in the heart of Siem Reap, BOPHA SIEMREAP is a reimagined heritage icon where Khmer architecture meets art deco elegance. Originally known as Hotel De La Paix, this landmark property thoughtfully redesigned by acclaimed architect Bill Bensley draws on the artistry and cultural legacy of Cambodia, with deep inspiration from the nearby ruins of Angkor Wat. Step into a world where the rituals and traditions of ancient Khmer civilization come to life. From refined dining experiences and immersive culinary journeys to revitalizing spa therapies rooted in local wisdom, every moment is thoughtfully curated. Guests are also invited to engage with meaningful community initiatives that reflect the spirit of giving. Perfectly situated to explore the UNESCO listed Angkor Archaeological Park and the vibrant energy of Siem Reap’s Pub Street and night bazaars, Park Hyatt Siem Reap offers a tranquil yet enriching gateway into Cambodia’s past and present.
+      Nestle in the heart of Siem Reap, BOPHA SIEMREAP is a reimagined heritage icon where Khmer architecture meets art deco elegance. Originally known as Hotel De La Paix, this landmark property thoughtfully redesigned by acclaimed architect Bill Bensley draws on the artistry and cultural legacy of Cambodia, with deep inspiration from the nearby ruins of Angkor Wat. Step into a world where the rituals and traditions of ancient Khmer civilization come to life. From refined dining experiences and immersive culinary journeys to revitalizing spa therapies rooted in local wisdom, every moment is thoughtfully curated. Guests are also invited to engage with meaningful community initiatives that reflect the spirit of giving. Perfectly situated to explore the UNESCO listed Angkor Archaeological Park and the vibrant energy of Siem Reap’s Pub Street and night bazaars, Park Hyatt Siem Reap offers a tranquil yet enriching gateway into Cambodia’s past and present.
     </p>
   </div>
 
